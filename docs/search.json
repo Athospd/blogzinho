@@ -1,0 +1,12 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "Blogzinho",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-09T22:30:37-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
